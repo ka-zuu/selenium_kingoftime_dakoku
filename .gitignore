@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# コンフィグファイルを読み込まないようにする
+# 今回用の設定
 config
+chromedriver
